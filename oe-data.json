@@ -1,7 +1,7 @@
 [
   {
     "company": "Genesis",
-    "booth": 3e+65,
+    "booth": 3E65,
     "website": "https://www.genesisenergies.com/",
     "email": "enquiries@genesisenergies.com",
     "telephone": "\t+44 20 7585 5000",
@@ -14,7 +14,7 @@
   },
   {
     "company": "Rock Flow Dynamics",
-    "booth": 3e+60,
+    "booth": 3E60,
     "website": "https://rfdyn.com/",
     "email": "rfdsales@rfdyn.com",
     "telephone": "",
@@ -2430,4 +2430,5 @@
     "postal_code": "LE157QT",
     "country": "United Kingdom"
   }
+
 ]
