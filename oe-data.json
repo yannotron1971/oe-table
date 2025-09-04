@@ -794,7 +794,7 @@
   },
   {
     "company": "Expro",
-    "booth": 3e+40,
+    "booth": 3E40,
     "website": "http://www.expro.com/",
     "email": "businessdevelopment.ecis@expro.com",
     "telephone": 441224225700,
@@ -2406,7 +2406,7 @@
   },
   {
     "company": "XYZ Machine Tools",
-    "booth": 3e+68,
+    "booth": 3E68,
     "website": "https://xyzmachinetools.com/",
     "email": "sales@xyzmachinetools.com",
     "telephone": "\t01823 674200",
@@ -2432,3 +2432,4 @@
   }
 
 ]
+
